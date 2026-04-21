@@ -1,0 +1,10 @@
+# Configurações do VS Code
+.vscode/
+
+# Arquivos executáveis
+*.exe
+*.out
+*.o
+
+# Arquivos temporários do compilador
+*.stackdump
